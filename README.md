@@ -44,7 +44,7 @@
   - 공지글 추가 기능
 
 ---
-# 이슈별 실습 내용
+# 이슈별 내용
 ![이슈별 실습 내용 drawio](https://github.com/ccommit-dev/Board-Server/assets/77635521/9434ac9e-3e43-47f7-a2ad-6c560657e199)
 
 ---
