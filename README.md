@@ -10,7 +10,7 @@
 
 ---
 # 사용기술
-- JAVA 17, Spring Boot 2.3, MyBatis, MySQL, Redis
+- JAVA 17, Spring Boot 3.1.8, MyBatis, MySQL, Redis
 
 ---
 # 성능테스트 툴
